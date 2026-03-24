@@ -23,4 +23,4 @@ I am proficient in the Adobe Creative Cloud applications including Photoshop, Af
 <img width="226" height="220" alt="image" src="https://github.com/user-attachments/assets/b1d432fb-97d0-49fb-a475-5689ff63f752" />
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ca7d1a28-d50a-42b6-ac54-76cdf6a5adb5" />
 
-(Here I would insert icons for the various Adobe programs mentioned) 
+ 
