@@ -6,13 +6,12 @@ What I Do:
 
 I use HTML and CSS to create interactive and exciting web pages. I am still learning JavaScript but plan to incorporate it more often in my builds. I like learning in general and applying skills that I've learned.  I also like to create motion graphics and visual effects as well as photography and filmmaking.  
 
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/d3613a0d-2c24-4c50-b597-2ac438c0a120" />
-<img width="157" height="220" alt="image" src="https://github.com/user-attachments/assets/31952b60-2f7d-49a4-a1ea-90c2f2023d80" />
- 
+<img width="152" height="231" alt="image" src="https://github.com/user-attachments/assets/5de88011-d17f-436a-8794-d7511240dd2b" />
+<img width="156" height="225" alt="image" src="https://github.com/user-attachments/assets/97015762-190d-4379-86c4-abda0adffb97" />
 
  I am learning: 
 
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/1159f5bc-de7e-404f-b35d-207ebed20a17" />
+<img width="152" height="226" alt="image" src="https://github.com/user-attachments/assets/9214e390-56cf-4fff-89fd-9aacc07f5484" />
 
 I am proficient in the Adobe Creative Cloud applications including Photoshop, After Effects, Illustrator, InDesign, Premiere Pro, and Lightroom.
 
