@@ -3,14 +3,11 @@
 
 linkedin.com/in/dantejbevill
 
-sites.google.com/view/madeinimaginationbydantebevill/home
-
-
 I am a web developer with 2.5 years of experience with a passion for delivering accessible, responsive user experiences through clean, maintainable code. 
 
 What I Do: 
 
-I use HTML and CSS to create interactive and exciting web pages. I am often working to level up my skills. I am still learning JavaScript but plan to incorporate it more often in my builds. I like learning in general and applying skills that I've learned.  I also like to experiment with animation, create motion graphics and visual effects, music production, as well as photography and filmmaking.  
+I use HTML and CSS to create interactive and exciting web pages. I like learning in general and applying skills that I've learned. Because of that, I am often working to level up my skills. I am learning JavaScript so that I can incorporate it more often in my builds.   I also have a passion for animation, creating motion graphics and visual effects, music production, as well as photography and filmmaking.  
 
 <img width="152" height="231" alt="image" src="https://github.com/user-attachments/assets/5de88011-d17f-436a-8794-d7511240dd2b" />
 <img width="156" height="225" alt="image" src="https://github.com/user-attachments/assets/97015762-190d-4379-86c4-abda0adffb97" />
@@ -28,5 +25,11 @@ I am proficient in the Adobe Creative Cloud applications including Photoshop, Af
 <img width="123" height="40" alt="image" src="https://github.com/user-attachments/assets/6fb4358f-a3f0-46ac-b9d4-27a8f463a601" />
 <img width="132" height="41" alt="image" src="https://github.com/user-attachments/assets/b0f5b98e-2218-416b-85d9-e868ca9d36d2" />
 
+Some of my GIT projects can be viewed via the following links:
 
+sites.google.com/view/madeinimaginationbydantebevill/home
+
+https://www.behance.net/dantebevill
+
+Thank you for visiting my site!
  
