@@ -1,5 +1,4 @@
-<img width="136" height="86" alt="image" src="https://github.com/user-attachments/assets/11df781f-d1b8-4a8f-bb65-0774c7284f93" />
-
+<img width="1025" height="120" alt="image" src="https://github.com/user-attachments/assets/5544efb4-ef51-4c50-af8b-a46e50070b6d" />
 
 linkedin.com/in/dantejbevill
 
