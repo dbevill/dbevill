@@ -17,6 +17,15 @@ I use HTML and CSS to create interactive and exciting web pages. I am still lear
 I am proficient in the Adobe Creative Cloud applications including Photoshop, After Effects, Illustrator, InDesign, Premiere Pro, and Lightroom.
 
 <img width="136" height="42" alt="image" src="https://github.com/user-attachments/assets/b4ae0047-87ca-419f-adbd-751262a24987" />
+<img width="145" height="42" alt="image" src="https://github.com/user-attachments/assets/1caecf64-885f-4617-9fcc-86adbe5e1a55" />
+<img width="125" height="40" alt="image" src="https://github.com/user-attachments/assets/37bf1173-f06c-42fd-a0cb-639d4c560921" />
+<img width="120" height="42" alt="image" src="https://github.com/user-attachments/assets/e9bc12d7-716e-4ec0-ab44-31f1538cf092" />
+<img width="123" height="40" alt="image" src="https://github.com/user-attachments/assets/6fb4358f-a3f0-46ac-b9d4-27a8f463a601" />
+<img width="132" height="41" alt="image" src="https://github.com/user-attachments/assets/b0f5b98e-2218-416b-85d9-e868ca9d36d2" />
+
+
+
+
 
 
 <img width="293" height="220" alt="image" src="https://github.com/user-attachments/assets/7bc853f9-ad0b-49d2-bae9-2deb67c99480" />
