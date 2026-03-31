@@ -24,15 +24,4 @@ I am proficient in the Adobe Creative Cloud applications including Photoshop, Af
 <img width="132" height="41" alt="image" src="https://github.com/user-attachments/assets/b0f5b98e-2218-416b-85d9-e868ca9d36d2" />
 
 
-
-
-
-
-<img width="293" height="220" alt="image" src="https://github.com/user-attachments/assets/7bc853f9-ad0b-49d2-bae9-2deb67c99480" />
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/fbf1033e-d2a7-4321-b99b-06ffbea6cb7a" />
-<img width="220" height="220" alt="image" src="https://github.com/user-attachments/assets/27ac6f76-0065-4503-8d77-8970d4890217" />
-<img width="226" height="220" alt="image" src="https://github.com/user-attachments/assets/61b06e2e-d6c3-4478-9a44-6c381545a5ba" />
-<img width="226" height="220" alt="image" src="https://github.com/user-attachments/assets/b1d432fb-97d0-49fb-a475-5689ff63f752" />
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/ca7d1a28-d50a-42b6-ac54-76cdf6a5adb5" />
-
  
