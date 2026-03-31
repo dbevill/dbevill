@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="136" height="86" alt="image" src="https://github.com/user-attachments/assets/11df781f-d1b8-4a8f-bb65-0774c7284f93" />
 
 I am a web developer with 2.5 years of experience with a passion for delivering accessible, responsive user experiences through clean, maintainable code. 
 
