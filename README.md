@@ -6,7 +6,7 @@ I am a web developer with 2.5 years of experience with a passion for delivering 
 
 What I Do: 
 
-I use HTML and CSS to create interactive and exciting web pages. I like learning in general and applying skills that I've learned. Because of that, I am often working to level up my skills. I am learning JavaScript so that I can incorporate it more often in my builds.   I also have a passion for animation, creating motion graphics and visual effects, music production, as well as photography and filmmaking.  
+I use HTML and CSS to create interactive and exciting web pages. I like learning in general and applying skills that I've learned. Because of that, I am often working to level up my skills. I am learning JavaScript so that I can incorporate it more often in my builds.   I also have a passion for animation, creating motion graphics and visual effects, music production, as well as photography and filmmaking. I practice coding as well as design in my spare time. After graduation, I would like to work in design doing UX, software development, as well as build up my full stack skills.
 
 <img width="152" height="231" alt="image" src="https://github.com/user-attachments/assets/5de88011-d17f-436a-8794-d7511240dd2b" />
 <img width="156" height="225" alt="image" src="https://github.com/user-attachments/assets/97015762-190d-4379-86c4-abda0adffb97" />
